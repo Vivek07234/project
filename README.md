@@ -1,4 +1,4 @@
-# New Project
+# Project
 
 this is my new project and is's created by the local system.
 
